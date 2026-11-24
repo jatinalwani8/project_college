@@ -1,0 +1,34 @@
+P3 - Git Branching and Merging
+
+Objective:
+To understand Git branching and merging.
+
+Steps performed:
+
+1. Created a feature branch.
+2. Switched to the feature branch.
+3. Created a new file.
+4. Added and committed the file.
+5. Pushed the feature branch to GitHub.
+6. Switched back to main.
+7. Merged the feature branch into main.
+8. Pushed the updated main branch.
+
+Git Commands:
+
+git switch -c feature/profile-page
+
+git add branch-demo.txt
+
+git commit -m "Create feature branch demo file"
+
+git push -u origin feature/profile-page
+
+git switch main
+
+git merge feature/profile-page
+
+git push origin main
+
+Result:
+Successfully created and merged a Git feature branch.
