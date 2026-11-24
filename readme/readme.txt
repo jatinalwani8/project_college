@@ -1,6 +1,6 @@
 web_dev_lab_2
 Web Development Laboratory
-Name: Aryan Singh Course: Programming for Web Development
+Name: Jatin alwani Course: Programming for Web Development
 Institution: BOSS CODER School of Technology
 
 Practical Assignments
